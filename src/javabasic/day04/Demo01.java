@@ -27,6 +27,10 @@ public class Demo01 {
          double s = 10463.68;
          s = Math.round(10 * s) / 10.0;
          System.out.println(s);
+
+         double aa = 1.0 +1;
+         double bb = 3.0 +1;
+		System.out.println((aa+1)/(bb+1));
                        
 	}
 

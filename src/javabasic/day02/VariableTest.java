@@ -1,5 +1,8 @@
-package day02;
+package javabasic.day02;
 
+/**
+ * @author huqingxiang
+ */
 public class Demo {
 	public static void main(String[] args){
 		//System.out.println(age);//编译错误，找不到age变量

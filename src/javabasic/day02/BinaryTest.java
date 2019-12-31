@@ -1,4 +1,4 @@
-package day02;
+package javabasic.day02;
 
 public class Demo2 {
 	public static void main(String[] args){
@@ -9,6 +9,10 @@ public class Demo2 {
 		System.out.println(Integer.toBinaryString(min));
 		System.out.println(n);
 		System.out.println(min);
+		int a = 8;
+		int b = -8;
+		System.out.println(Integer.toBinaryString(a));
+		System.out.println(Integer.toBinaryString(b));
 /*		  十进制      二进制     四位补码
            -8         1000
            -7         1001

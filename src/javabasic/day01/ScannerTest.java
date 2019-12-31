@@ -1,7 +1,11 @@
-package firstday.demo;
+package javabasic.day01;
 
 import java.util.Scanner;
 
+/**
+ * @author huqingxiang
+ * @date
+ */
 public class Member {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
